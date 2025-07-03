@@ -1,6 +1,6 @@
 # 5e Combat Compendium
 
-## v0.0.1
+### v0.0.1
 
 # Purpose
 
@@ -20,7 +20,7 @@ A wide suite of D&D 5th Edition tools for players who wish they could lay out al
 - Reaction Tracker & Information
 - Round End Refresh
 
-## Partially Implementation
+## Partially Implemented
 
 - N/A
 
