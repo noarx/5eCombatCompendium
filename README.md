@@ -19,6 +19,7 @@ A wide suite of D&D 5th Edition tools for players who wish they could lay out al
 - Bonus Action Tracker & Information
 - Reaction Tracker & Information
 - Round End Refresh
+- Concentration Tracking & Confirmation
 
 ## Partially Implemented
 
